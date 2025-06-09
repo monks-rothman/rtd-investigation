@@ -1,0 +1,6 @@
+root: ./docs/
+
+​structure:
+  home: index.md
+  managing: managing.md​
+  deploy: deploy.md​
