@@ -1,6 +1,6 @@
 site_name: RTD
 nav:
-  - Home: index.md
+  - Home: 'index.md'
   - RTD Overview:
-    - Managing Content: managing.md
-    - Deploying Content: deploy.md
+    - Managing Content: 'managing.md'
+    - Deploying Content: 'deploy.md'
